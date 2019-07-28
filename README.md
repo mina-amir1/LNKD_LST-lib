@@ -15,5 +15,5 @@ Just include it in your C file and adjust cfg_lnkd.h
 |4.void    |  delete(pointer to pointer_head,u8_search val for desired node);//delete the node that contains search val			  	            |
 |5.void    |  print_list(pointer_head);//printing the nodes data of the list																	                              |
 |6.node*   |  search_node(pointer_head,u8_search val);//returning the address of the node that contains search val in data field	  	      |
-|7.u8      |  getlist_length(pointer_head);//returning the number of nodes in the list															                        |
+|7.u8      |  getlist_length(pointer_head);//returning the number of nodes in the list		 													                        |
 └-------------------------------------------------------------------------------------------------------------------------------------------┘	
